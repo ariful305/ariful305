@@ -78,7 +78,4 @@ Hi, I'm a web developer. I have 2 years of work experience in this sector. I am 
   <img src="https://github-readme-stats.vercel.app/api?username=ariful305&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/ariful305/ariful305/output/snake.svg" alt="Snake animation" />
-
-###
 
