@@ -7,9 +7,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arisim305/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-
-
+</br> 
+</br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariful305" alt="ariful305" /></a> </p>
 
 ### Glad to see you here!  
 Hi, I'm a web developer. I have 2 years of work experience in this sector. I am already working as a web Developer in i2 Technologies Limited. I have already completed over 79+ projects with this company. My core skill: HTML5, CSS3, JavaScript, Bootstrap, PHP,WordPress and Laravel. I have already completed over 223+ projects in local market. I always like to create something on my own which is helpful for others.  
@@ -77,5 +77,6 @@ Hi, I'm a web developer. I have 2 years of work experience in this sector. I am 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ariful305&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
+
 
 
