@@ -74,8 +74,11 @@ Hi, I'm a web developer. I have 2 years of work experience in this sector. I am 
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ariful305&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ariful305&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+</div>
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<img src="https://raw.githubusercontent.com/ariful305/ariful305/output/snake.svg" alt="Snake animation" />
+
+###
+
