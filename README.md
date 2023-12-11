@@ -75,7 +75,7 @@ Hi, I'm a web developer. I have 2 years of work experience in this sector. I am 
 
 ## Github Stats  
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariful305&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://gh-readme-profile.vercel.app/api?username=ariful305&theme=default&stroke_color=4aa8f5&icon_color=4aa8f5&title_color=4aa8f5" height="250" alt="stats graph"  />
 </div>
 
 
