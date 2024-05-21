@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">🛠 Language</h3>
+<h2 align="left">🛠 Language</h2>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">🛠  Tools</h3>
+<h2 align="left">🛠  Tools</h2>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariful305" alt="ariful305" /></a> </p>
