@@ -1,8 +1,29 @@
-## Hey 👋, I'm Arif!  
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=40&lines=About+me;)](https://git.io/typing-svg)
 
-###
+### <div align="left">I'm Arif 👨‍💻 working remotely since 2021🚀</div>  
+<br/>  
+  
 
-<p align="left">I'm ... from .... Bangladeh<br><br>- 🔭 I’m working as  web developer<br>- 📚 I'm currently learning Laravel <br>- ⚡ In my free time I play games</p>
+- 🧑‍💼 I’m currently working on [ i2 Technologies Limited](https://i2technologies.net/)  
+  
+
+- 🌱 I’m currently learning livewire  
+  
+
+- ❓ Ask me about anything related to LAMP stack   
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
+  
+## More About me
+ 
+Hello! My name is Md Ariful Islam and I'm a dynamic web developer with a strong track record of 2 years in the industry, currently utilizing my expertise at i2 Technologies Limited. With a portfolio showcasing over 79 meticulously crafted projects within the company, I specialize in HTML5, CSS3, JavaScript, Bootstrap, PHP, WordPress, and Laravel, adept at weaving together seamless digital experiences.
+
+Outside of my corporate role, I've made meaningful contributions to the local market, successfully delivering over 173 projects to satisfied clients. My passion lies in creating visually appealing and highly functional websites that consistently meet and exceed expectations.
+
+Motivated by a commitment to excellence, I thrive on challenges and continually seek to push the boundaries of web development. Let's connect and explore opportunities to elevate online craftsmanship together!
+
+<br/>  
 
 ###
 
@@ -66,26 +87,27 @@
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
 </div>
 
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=ariful305&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariful305&hide_border=true&layout=compact" align="center" /></div>  
+
+<br/>  
+
+## Contributions 
+ 
+<picture> 
+  <source
+    media="(prefers-color-scheme: light)"
+   srcset="https://raw.githubusercontent.com/ariful305/ariful305/output/snake.svg"
+  />
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/ariful305/ariful305/output/snake.svg"
+  />
+</picture>
+
+
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
 
-###
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariful305" alt="ariful305" /></a> </p>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariful305&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ariful305&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-<br>
-
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ariful305/ariful305/output/snake.svg" alt="Snake animation" />
-
-###
