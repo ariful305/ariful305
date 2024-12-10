@@ -36,9 +36,9 @@ Motivated by a commitment to excellence, I thrive on challenges and continually 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
@@ -46,9 +46,9 @@ Motivated by a commitment to excellence, I thrive on challenges and continually 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />  
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -74,11 +74,16 @@ Motivated by a commitment to excellence, I thrive on challenges and continually 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscodium" height="40" alt="vscodium logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="sublime logo"  />  
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo"  />
+  
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" height="40" alt="heroku logo"  />
+  <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  />
   <img width="12" />
@@ -86,9 +91,16 @@ Motivated by a commitment to excellence, I thrive on challenges and continually 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />  
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mint" height="40" alt="mint logo"  />  
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
+  
 </div>
 
 ## Github Stats  
