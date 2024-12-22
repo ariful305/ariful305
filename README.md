@@ -104,7 +104,7 @@ Motivated by a commitment to excellence, I thrive on challenges and continually 
 </div>
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=ariful305&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://streak-stats.demolab.com/?user=ariful305&theme=whatsapp-light" align="left" />  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariful305&hide_border=true&layout=compact" align="center" /></div>  
 
