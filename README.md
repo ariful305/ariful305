@@ -97,11 +97,9 @@ Motivated by a commitment to excellence, I thrive on challenges and continually 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="sublime logo"  />  
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo"  />  
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo"  /> 
   <img width="12" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="PyCharm logo"  />   
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="PyCharm logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/9f931c45-0585-4db0-86a7-25ce3f5bef25" height="40" alt="webstorm logo"  />   
   <img width="12" />
