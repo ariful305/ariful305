@@ -1,27 +1,19 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=40&lines=About+me;)](https://git.io/typing-svg)
 
-### <div align="left">I'm Arif 👨‍💻 working remotely since 2021🚀</div>  
-<br/>  
-  
+# Hi, I'm Md Ariful Islam 👋  
 
-- 🧑‍💼 I’m currently working on [ i2 Technologies Limited](https://i2technologies.net/)  
-  
+I'm a **dynamic web developer** with **2+ years of professional experience**, currently honing my skills at **i2 Technologies Limited**. My journey in web development includes delivering over **79 impactful projects** within the company and an impressive **173+ projects** for clients in the local market.  
 
-- 🌱 I’m currently learning livewire  
-  
+## 🚀 What I Do  
+I specialize in creating **visually appealing** and **highly functional** websites using:  
+- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap  
+- **Backend**: PHP, Laravel  
+- **CMS**: WordPress  
 
-- ❓ Ask me about anything related to LAMP stack   
-  
+With a focus on **seamless digital experiences**, I am passionate about crafting solutions that are both user-friendly and technically robust.  
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
-## More About me
- 
-Hello! My name is Md Ariful Islam and I'm a dynamic web developer with a strong track record of 2 years in the industry, currently utilizing my expertise at i2 Technologies Limited. With a portfolio showcasing over 79 meticulously crafted projects within the company, I specialize in HTML5, CSS3, JavaScript, Bootstrap, PHP, WordPress, and Laravel, adept at weaving together seamless digital experiences.
-
-Outside of my corporate role, I've made meaningful contributions to the local market, successfully delivering over 173 projects to satisfied clients. My passion lies in creating visually appealing and highly functional websites that consistently meet and exceed expectations.
-
-Motivated by a commitment to excellence, I thrive on challenges and continually seek to push the boundaries of web development. Let's connect and explore opportunities to elevate online craftsmanship together!
+## 🌟 What Drives Me  
+I’m fueled by a commitment to **excellence** and thrive on tackling new challenges that push the boundaries of web development.  
 
 <br/>  
 
