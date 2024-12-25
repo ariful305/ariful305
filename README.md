@@ -1,21 +1,11 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=40&lines=About+me;)](https://git.io/typing-svg)
+# Hey there! I'm Md Ariful Islam 👨‍💻  
 
-# Hi, I'm Md Ariful Islam 👋  
+I’m a **passionate web developer** with **2+ years of experience** turning ideas into **interactive digital experiences**. Currently, I’m crafting impactful solutions at **i2 Technologies Limited**, where I’ve successfully delivered **79+ projects**. Beyond the 9-to-5, I’ve also contributed to the local market with **173+ bespoke solutions** for a wide range of clients.  
 
-I'm a **dynamic web developer** with **2+ years of professional experience**, currently honing my skills at **i2 Technologies Limited**. My journey in web development includes delivering over **79 impactful projects** within the company and an impressive **173+ projects** for clients in the local market.  
+---
 
-## 🚀 What I Do  
-I specialize in creating **visually appealing** and **highly functional** websites using:  
-- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap  
-- **Backend**: PHP, Laravel  
-- **CMS**: WordPress  
-
-With a focus on **seamless digital experiences**, I am passionate about crafting solutions that are both user-friendly and technically robust.  
-
-## 🌟 What Drives Me  
-I’m fueled by a commitment to **excellence** and thrive on tackling new challenges that push the boundaries of web development.  
-
-<br/>  
+## 💡 My Toolkit 
+Here’s what I bring to the table:
 
 ###
 
@@ -122,6 +112,25 @@ I’m fueled by a commitment to **excellence** and thrive on tackling new challe
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
 </div>
+
+###
+I specialize in blending clean design with efficient code, ensuring that every project is as functional as it is visually compelling.
+###
+---
+
+## 🧠 My Developer Mindset  
+- **Code is art**: I strive for solutions that are elegant and maintainable.  
+- **User first**: I prioritize user experience, ensuring every interaction feels intuitive and rewarding.  
+- **Continuous learning**: The tech world never stops, and neither do I.  
+
+---
+
+## 🚀 Let’s Build Something Awesome  
+I’m all about **collaboration** and taking on **new challenges**. Got a project idea or want to brainstorm together? Let’s connect and make it happen.  
+
+> _“Programming is thinking, not typing.” – Casey Patton_  
+
+---
 
 ## Github Stats  
 <img src="https://streak-stats.demolab.com/?user=ariful305&theme=whatsapp-light" align="left" />  
