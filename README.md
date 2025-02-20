@@ -38,8 +38,7 @@ Here’s what I bring to the table:
 ###
 
 <div align="left">
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+  
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" height="40" alt="bootstrap logo"  />  
   <img width="12" />
