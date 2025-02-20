@@ -56,7 +56,11 @@ Here’s what I bring to the table:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />   
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo"  />  
+  <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo"  /> 
+   <img width="12" />
+  <img src="https://www.infinityfree.com/images/logo-purple.png" height="25" alt="heroku logo"  />  
+
+   
 </div>
 
 
@@ -97,7 +101,9 @@ Here’s what I bring to the table:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />  
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  /> 
+  
+  
 </div>
 
 <h2 align="left">🛠 Operation System</h2>
