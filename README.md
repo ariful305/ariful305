@@ -142,7 +142,7 @@ I’m all about **collaboration** and taking on **new challenges**. Got a projec
 ---
 
 ## Github Stats  
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev?cardType=github&theme=github&preferLogin=false&Title=000000)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev?cardType=github&theme=github&preferLogin=false&Title=000000&Border=000000)](https://git.io/awesome-stats-card)
 
 <br/>  
 
