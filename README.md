@@ -54,6 +54,10 @@ Here’s what I bring to the table:
 <div align="left">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />   
+   
+  <img width="12" />
+  <img src="https://mariadb.org/wp-content/themes/twentynineteen-child/icons/logo_seal.svg" height="40" alt="mysql logo"  />   
+   
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo"  /> 
    <img width="12" />
