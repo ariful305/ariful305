@@ -126,7 +126,7 @@ Here’s what I bring to the table:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mint" height="40" alt="mint logo"  />
    <img width="12" />
-  <img src="https://www.linuxliteos.com/assets/img/logos/linux_lite_dark_logo_sample_sample.png" height="40" alt="lite logo" />
+  <img src="https://linuxliteos.com/images/logo.jpg" height="40" alt="lite logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
   
