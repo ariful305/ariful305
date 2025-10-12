@@ -1,6 +1,6 @@
 # Hey there! I'm Md Ariful Islam 👨‍💻  
 
-I’m a **passionate web developer** with **2+ years of experience** turning ideas into **interactive digital experiences**. Currently, I’m crafting impactful solutions at **i2 Technologies Limited**, where I’ve successfully delivered **79+ projects**. Beyond the 9-to-5, I’ve also contributed to the local market with **173+ bespoke solutions** for a wide range of clients.  
+I’m a **passionate web developer** with **4+ years of experience** turning ideas into **interactive digital experiences**. Currently, I’m crafting impactful solutions at **i2 Technologies Limited**, where I’ve successfully delivered **79+ projects**. Beyond the 9-to-5, I’ve also contributed to the local market with **173+ bespoke solutions** for a wide range of clients.  
 
 ---
 
