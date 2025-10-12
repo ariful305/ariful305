@@ -125,8 +125,10 @@ Here’s what I bring to the table:
   <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" height="40" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mint" height="40" alt="mint logo"  />
-   <img width="12" />
+  <img width="12" />
   <img src="https://linuxliteos.com/images/logo.jpg" height="40" alt="lite logo" />
+   <img width="12" />
+  <img src="https://kubuntu.org/wp-content/uploads/2015/02/favicon.ico" height="40" alt="kubuntu logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
   
