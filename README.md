@@ -128,7 +128,7 @@ Here’s what I bring to the table:
   <img width="12" />
   <img src="https://linuxliteos.com/images/logo.jpg" height="40" alt="lite logo" />
    <img width="12" />
-  <img src="https://kubuntu.org/wp-content/uploads/2015/02/favicon.ico" height="40" alt="kubuntu logo" />
+  <img src="https://kubuntu.org/images/kubuntu-logo.png" height="40" alt="kubuntu logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
   
