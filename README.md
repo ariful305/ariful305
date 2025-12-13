@@ -130,8 +130,9 @@ Here’s what I bring to the table:
    <img width="12" />
   <img src="https://kubuntu.org/images/kubuntu-logo.png" height="40" alt="kubuntu logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/480px-Windows_logo_-_2012_%28dark_blue%29.svg.png" height="40" alt="windows logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg" height="40" alt="windows logo"  />
    
 </div>
 
