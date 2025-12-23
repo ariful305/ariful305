@@ -99,10 +99,6 @@ Here’s what I bring to the table:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  /> 
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  />
-  
-  
-  <img width="12" />
-  <img src="https://valetlinux.plus/img/valet-logo.png" height="35" alt="valet logo"  /> 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />  
   <img width="12" />
