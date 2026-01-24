@@ -130,7 +130,7 @@ Here’s what I bring to the table:
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" height="40" alt="windows logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg" height="40" alt="windows logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" height="40" alt="windows logo"  />
    
 </div>
 
