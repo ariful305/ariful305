@@ -44,9 +44,9 @@ Here’s what I bring to the table:
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" height="40" alt="bootstrap logo"  />  
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="40" alt="laravel logo"  />  
 </div>
 
 <h2 align="left">🛠 Databases and Cloud Hosting</h2>
@@ -122,9 +122,9 @@ Here’s what I bring to the table:
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" height="40" alt="ubuntu logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mint" height="40" alt="mint logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" height="40" alt="mint logo"  />
   <img width="12" />
-  <img src="https://linuxliteos.com/images/logo.jpg" height="40" alt="lite logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Linux_lite_light_logo_sample_sample.png" height="40" alt="lite logo" />
    <img width="12" />
   <img src="https://kubuntu.org/images/kubuntu-logo.png" height="40" alt="kubuntu logo" />
   <img width="12" />
