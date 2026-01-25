@@ -154,7 +154,8 @@ I’m all about **collaboration** and taking on **new challenges**. Got a projec
 ---
 
 ## Github Stats  
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ariful305?cardType=github&theme=github&preferLogin=false&Title=000000&Border=000000)](https://git.io/awesome-stats-card)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariful305&rank_icon=github&include_all_commits=true)
+
 
 <br/>  
 
