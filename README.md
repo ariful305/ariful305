@@ -15,19 +15,19 @@ Here’s what I bring to the table:
 
 <div align="left">
    <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Devicon-html5-plain.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Devicon-css3-plain.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" height="40" alt="javascript logo"  />  
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40" alt="php logo"  /> 
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/960px-Java_programming_language_logo.svg.png" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash&theme=dark&perline=15"  height="40" alt="java logo"  />
    
