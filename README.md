@@ -119,6 +119,8 @@ Here’s what I bring to the table:
 ###
 
 <div align="left">
+    <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/CachyOS_Logo.svg" height="40" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" height="40" alt="ubuntu logo"  />
   <img width="12" />
