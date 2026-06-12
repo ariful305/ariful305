@@ -156,7 +156,10 @@ I’m all about **collaboration** and taking on **new challenges**. Got a projec
 ---
 
 ## Github Stats  
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ariful305?cardType=level&theme=vue&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+<p align="center">
+  <img src="https://github-stats.arafatdev.com/stats.php?username=ariful305" />
+</p>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ariful305&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>  
