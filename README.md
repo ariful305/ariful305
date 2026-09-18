@@ -160,8 +160,7 @@ I’m all about **collaboration** and taking on **new challenges**. Got a projec
   <img src="https://github-stats.arafatdev.com/stats.php?username=ariful305" />
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ariful305&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![Activity Graph](https://raw.githubusercontent.com/ariful305/ariful305/output/activity-graph.svg)
 <br/>  
 
 ## Contributions 
