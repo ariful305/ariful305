@@ -156,9 +156,6 @@ I’m all about **collaboration** and taking on **new challenges**. Got a projec
 ---
 
 ## Github Stats  
-<p align="center">
-  <img src="https://github-stats.arafatdev.com/stats.php?username=ariful305" />
-</p>
 
 ![Activity Graph](https://raw.githubusercontent.com/ariful305/ariful305/output/activity-graph.svg)
 <br/>  
