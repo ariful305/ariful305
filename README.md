@@ -1,6 +1,26 @@
 # Hey there! I'm Md Ariful Islam 👨‍💻  
 
-I’m a **passionate web developer** with **4+ years of experience** turning ideas into **interactive digital experiences**. Currently, I’m crafting impactful solutions at **i2 Technologies Limited**, where I’ve successfully delivered **131+ projects**. Beyond the 9-to-5, I’ve also contributed to the local market with **173+ bespoke solutions** for a wide range of clients.  
+### Full-Stack Web Developer
+
+Building modern, scalable, and user-focused web applications.
+
+I'm **Md Ariful Islam**, a passionate Web Developer with **4+ years of professional experience** turning ideas into impactful digital solutions.
+
+Currently working at **i2 Technologies Limited**, where I've contributed to **131+ company projects**. Alongside my professional work, I've delivered **173+ bespoke solutions** for local clients across different industries.
+
+I enjoy solving real-world problems through clean code, thoughtful architecture, and intuitive user experiences.
+
+---
+
+## 👨‍💻 About Me
+
+- 💼 Currently working at **i2 Technologies Limited**
+- 🚀 4+ years of professional development experience
+- 🏢 Contributed to 131+ company projects
+- 🌍 Delivered 173+ local client solutions
+- 💻 Passionate about Laravel, PHP, and modern web technologies
+- 🧠 Always learning, building, and exploring new technologies
+- 🤝 Open to collaboration and exciting development opportunities
 
 ---
 
